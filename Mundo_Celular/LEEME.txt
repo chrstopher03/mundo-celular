@@ -1,0 +1,25 @@
+MUNDO CELULAR — SITIO WEB
+
+Archivos:
+- index.html: sitio completo y adaptable a celular, tablet y computadora.
+
+Cómo abrir:
+1. Extrae el ZIP.
+2. Abre la carpeta y haz doble clic en index.html.
+3. Para publicarlo, sube index.html a tu hosting (por ejemplo, Netlify).
+
+Importante:
+- El sitio utiliza imágenes alojadas externamente y Google Fonts, por lo que esas imágenes y fuentes requieren Internet.
+- WhatsApp y llamadas usan el número indicado: 8853 9005 (enlace internacional +505).
+- No se inventaron direcciones ni horarios de las sucursales. Añádelos cuando los tengas confirmados.
+- Las tarjetas muestran categorías ilustrativas, no inventario ni precios en tiempo real.
+
+
+CONFIGURAR DIRECCIONES DEL MAPA:
+1. Abre index.html con un editor de código.
+2. Busca el texto: const SUCURSALES = [
+3. Edita nombre, direccion, lat y lon de cada sucursal.
+4. Para un marcador exacto, reemplaza lat y lon con las coordenadas GPS reales.
+5. Guarda el archivo y vuelve a cargar la página.
+
+IMPORTANTE: las coordenadas que vienen en la plantilla son aproximadas y repetidas para las sucursales de Somoto; reemplázalas por las ubicaciones exactas de cada tienda. Las direcciones de ejemplo no son ubicaciones verificadas.
